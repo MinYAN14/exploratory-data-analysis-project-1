@@ -1,7 +1,8 @@
 # Coursera Data Science: Exploratory Data Analysis
 # Course project 1: plot2
-# Cheng-Han Yu
+# Cheng-Han Yu 2016 MIN YAN MODIFIED @2020-10-20
 ################################################################################
+setwd ("D://coursera//exploratory_data_analysis")
 ## load the data
 rm(list = ls())
 data <- read.table("household_power_consumption.txt", header = T, 
